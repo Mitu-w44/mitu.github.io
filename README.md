@@ -22,8 +22,12 @@
     B's mom looks like a dork but she is kind by heart,<br>
     <mark>the creator</mark>'s mom is a motherfucking bitch with mid-boobs.<br>
     You see, we may not be able to decide how we are born,<br>
-    but we can become rich and change how we look <strong>permanently</strong> <small>...thanks to cosmetic surgery</small></p>
-    
+    but we can become rich and change how we look <strong>permanently</strong><small>, thanks to cosmetic surgery</small></p>
+
+  <p> <abbr title="Hypertext Markup Language">As you may realize, <mark>the creater</mark> is learning coding. Here is a code he/she (you never know) is trying </abbr>
+    <pre><code>
+    &lt;h1&gt;Hello World, Bitch&lt;h1&gt;
+    </code></pre>
   </body>
 </html>
 
