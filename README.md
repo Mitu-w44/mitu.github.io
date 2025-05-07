@@ -22,7 +22,7 @@
     B's mom looks like a dork but she is kind by heart,<br>
     <mark>the creator</mark>'s mom is a motherfucking bitch with mid-boobs.<br>
     You see, we may not be able to decide how we are born,<br>
-    but can we become rich and change how we look <strong>permanently</strong>...thanks to cosmetic surgery</p>
+    but can we become rich and change how we look <strong>permanently</strong> <small>...thanks to cosmetic surgery</small></p>
     
   </body>
 </html>
