@@ -10,7 +10,7 @@
     <li>vibration</li>
     <li>waterproof</li>
   </ul>
-    <p>the <em>importance</em> of having B is to <cite>pleasure yourself</cite>. For example B junior once said:</p>
+    <p><abbr title="Hypertext Markup Language">the importance of having B is to <cite>pleasure yourself</cite>. Here we have a quote from B junior:</abbr></p>
       <blockquote>
         <p>"I dont have a <cite>boifriend</cite>, therefore I have product B" </p>
       </blockquote>
